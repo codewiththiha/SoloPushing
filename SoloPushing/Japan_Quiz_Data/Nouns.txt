@@ -1,0 +1,15 @@
+ねこ;Cat;Dog;Fish;Cat
+がっこう;School;Library;Gym;School
+いぬ;Dog;Cat;Bird;Dog
+くるま;Car;Bicycle;Train;Car
+いえ;House;Apartment;Office;House
+ひこうき;Airplane;Boat;Bus;Airplane
+えき;Station;Store;Office;Station
+いしゃ;Doctor;Teacher;Foreigners;Doctor
+でんしゃ;Train;Bus;Taxi;Train
+ともだち;Friend;Sibling;Teacher;Friend
+かいしゃ;Company;House;School;Company
+きっさてん;Cafe;Restaurant;Gym;Cafe
+こうえん;Park;Library;Office;Park
+びょういん;Hospital;School;Shop;Hospital
+ほん;Book;Pen;Pencil;Book

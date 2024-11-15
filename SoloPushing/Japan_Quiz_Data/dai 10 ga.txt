@@ -1,0 +1,14 @@
+
+
+まえ;front;back;side;front
+うしろ;back;front;below;back
+みぎ;right;left;middle;right
+ひだり;left;right;outside;left
+よこ;side;next to;inside;side
+ちかく;nearby;next to;above;nearby
+となり;next to;nearby;below;next to
+なか;inside;outside;above;inside
+そと;outside;inside;between;outside
+あいだ;between;side;front;between
+うえ;above;below;inside;above
+した;below;above;next to;below

@@ -1,0 +1,18 @@
+たべる;To eat;To drink;To sleep;To eat
+のむ;To drink;To run;To sing;To drink
+ねる;To sleep;To wake up;To walk;To sleep
+いく;To go;To come;To stop;To go
+みる;To see;To hear;To touch;To see
+きく;To listen;To dance;To read;To listen
+はなす;To speak;To write;To clean;To speak
+よむ;To read;To eat;To listen;To read
+かく;To write;To cook;To play;To write
+あるく;To walk;To sit;To stand;To walk
+はしる;To run;To jump;To sing;To run
+あう;To meet;To leave;To look;To meet
+かう;To buy;To sell;To borrow;To buy
+おしえる;To teach;To learn;To write;To teach
+ならう;To learn;To play;To swim;To learn
+つくる;To make;To break;To find;To make
+わかる;To understand;To forget;To remember;To understand
+およぐ;To swim;To run;To walk;To swim

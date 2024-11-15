@@ -1,0 +1,33 @@
+Prompt:
+
+Provide each question and answer in the exact format given below:
+Format Requirements:
+
+    No numbering, extra words, or explanations.
+    Each line should only contain the following items separated by semicolons (no spaces):
+    Question (in Japanese);Choice A (in English);Choice B (in English);Choice C (in English);Correct Answer (in English)
+
+Rules for Formatting:
+
+    Question: Include the question in Japanese exactly as provided, without modifications.
+    Choices (A, B, C): Ensure all choices are in English, are relevant, and consistent with the correct context.
+    Correct Answer: Always repeat one of the choices to indicate the correct answer.
+    No Empty Lines: Ensure there are no blank lines in the output.
+    No Parentheses, Extra Notes, or Symbols: Remove anything like (underlined) or additional comments such as "Correct Answer:".
+    No Duplicate Lines: Ensure each question is unique and not repeated.
+    Maintain Line Consistency: Each line should have exactly 5 elements. Avoid lines with fewer or more parts.
+
+Correct Example:
+
+まえ;front;back;side;front
+うしろ;back;front;below;back
+みぎ;right;left;middle;right
+ひだり;left;right;outside;left
+
+Error Prevention Notes:
+
+    Ensure no spaces between the semicolons and the items (e.g., まえ;front;back;side;front instead of まえ ; front ; back ; side ; front).
+    Each line must have exactly 5 components:
+    Question;Choice A;Choice B;Choice C;Correct Answer.
+    Avoid accidental duplication of lines. Check for uniqueness.
+    Double-check that the correct answer matches one of the three provided choices exactly.
