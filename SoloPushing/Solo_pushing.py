@@ -320,7 +320,7 @@ def get_text():
         print('here')
     input_data = advanced_questions.text_box.get(1.0, tk.END)
     advanced_questions.text_box.delete(1.0, tk.END)
-    genai.configure(api_key='AIzaSyDsam761rs_86Xi8ijblMJbJGE1iq_SoNo')
+    genai.configure(api_key=' ')
 
     model = genai.GenerativeModel("gemini-1.5-flash")
     response = model.generate_content(f"""{input_data}{quiz_prompt_defined}""")
@@ -1165,3 +1165,4 @@ window.mainloop()
 
 #pygame.mixer.music.get_busy():
 #Return True if playing(busy) and false if not
+
